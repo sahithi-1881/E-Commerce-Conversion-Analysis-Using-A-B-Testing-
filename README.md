@@ -3,6 +3,9 @@
 
 A data-driven experiment to evaluate user behavior and conversion performance
 
+<img width="826" height="487" alt="image" src="https://github.com/user-attachments/assets/c57cec64-5e66-40e6-8c91-cf758580fd57" />
+
+
 # 📍 The Context
 
 For digital products and marketing teams, even small changes to a landing page can significantly impact user conversion.
